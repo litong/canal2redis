@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: s_mall_cache
+  profiles:
+    active: dev
+server:
+  port: 22222
